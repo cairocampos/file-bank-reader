@@ -33,6 +33,7 @@ export class Boleto {
     }
 
     result.trailer = (new Trailer(trailer)).process();
-    return result;
+    // return result;
+    return result.body;
   }
 }

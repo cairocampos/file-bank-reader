@@ -10,7 +10,7 @@ export class Detail extends Separator
     // {label: "numero_inscricao_empresa",start: 4, end: 17},
     // {label: "zeros1",start: 18, end: 20},
     // {label: "identificacao_empresa_cedente",start: 21, end: 37},
-    {label: "codigo_cliente", start: 38, end: 48}, // Número do controle do participante
+    {label: "codigo_cliente", start: 38, end: 47}, // Número do controle do participante
     // {label: "zeros2",start: 63, end: 70},
 
     {label: "identificacao_titulo_no_banco",start: 71, end: 82}, // Numero titulo
